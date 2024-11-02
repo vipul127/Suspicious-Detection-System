@@ -37,9 +37,9 @@ This project demonstrates how to train a YOLOv5 model for threat detection (spec
 
 ## Run Threat Detection Model
 
-    ```bash
+    
     python threat.py
-    ```
+    
     
 ## Customization
 * Adjust the `threat.py` script to modify detection settings (confidence threshold, labels, etc.).
