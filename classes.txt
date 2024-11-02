@@ -1,0 +1,9 @@
+fire
+other
+smoke
+Crowbar
+Gun
+Knife
+face
+person
+weapon

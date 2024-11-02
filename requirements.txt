@@ -1,0 +1,9 @@
+torch>=1.7.0
+torchvision>=0.8.1
+opencv-python
+Pillow
+requests
+matplotlib
+numpy
+PyYAML
+tqdm
